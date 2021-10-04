@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gaseik/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Gaseik/static/js/main.4c1b0af7.chunk.js",
+    "main.js.map": "/Gaseik/static/js/main.4c1b0af7.chunk.js.map",
+    "runtime-main.js": "/Gaseik/static/js/runtime-main.f1e86de8.js",
+    "runtime-main.js.map": "/Gaseik/static/js/runtime-main.f1e86de8.js.map",
+    "static/js/2.ab3049dc.chunk.js": "/Gaseik/static/js/2.ab3049dc.chunk.js",
+    "static/js/2.ab3049dc.chunk.js.map": "/Gaseik/static/js/2.ab3049dc.chunk.js.map",
+    "static/js/3.b8e8f327.chunk.js": "/Gaseik/static/js/3.b8e8f327.chunk.js",
+    "static/js/3.b8e8f327.chunk.js.map": "/Gaseik/static/js/3.b8e8f327.chunk.js.map",
+    "index.html": "/Gaseik/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Gaseik/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ab3049dc.chunk.js.LICENSE.txt": "/Gaseik/static/js/2.ab3049dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Gaseik/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e86de8.js",
+    "static/js/2.ab3049dc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4c1b0af7.chunk.js"
+  ]
+}
