@@ -4,12 +4,12 @@ Hi 👋 My name is James Cheng
 FrontEnd developer
 ------------------
 
-* 🌍  I'm based in Taipei ,Taiwan🇹🇼
+* 🌍  I'm from Taiwan and based in London, UK.
 * 🖥️  See my portfolio at [Gaseik Portfolio](http://gaseik.github.io/Portfolio/)
 * ✉️  You can contact me at [james800822@hotmail.com](mailto:james800822@hotmail.com)
-* 🚀  I'm a frontend developer in [SPE3D.co](https://www.spe3d.co/)
-* 🧠  I'm learning Gastby.js / Three.js
-* 🤝  I'm open to collaborating on Any project with fantastic UI
+* 🚀  I'm a frontend developer at [MulderTech](https://muldertech.co.uk/)
+* 🧠  I'm learning AWS Deployment and Express.js, and I'm trying to become a full-stack developer.
+* 🤝  I'm open to collaborating on any project with fantastic UI.
 
 ### Skills
 
