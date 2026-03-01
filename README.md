@@ -5,10 +5,9 @@ FrontEnd developer
 ------------------
 
 * 🌍  I'm from Taiwan and based in London, UK.
-* 🖥️  See my portfolio at [Gaseik Portfolio](http://gaseik.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Gaseik Portfolio](https://portfolio-james-cheng.vercel.app/)
 * ✉️  You can contact me at [james800822@hotmail.com](mailto:james800822@hotmail.com)
-* 🚀  I'm a frontend developer at [MulderTech](https://muldertech.co.uk/)
-* 🧠  I'm learning AWS Deployment and Express.js, and I'm trying to become a full-stack developer.
+* 🚀  I'm a frontend developer currently work at [M10C](https://m10c.com/)
 * 🤝  I'm open to collaborating on any project with fantastic UI.
 
 ### Skills
