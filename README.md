@@ -7,7 +7,7 @@
 
 - 🔭 Currently building at **M10c** — React, TypeScript, Next.js, React Native
 - 🎓 MSc Computer Science @ **Queen Mary University of London**
-- 🧊 Previously: AR/3D at **Spe3d** with Three.js, blockchain traceability at **Mulder Tech**
+- 🔮 Side project: **Osho Zen Insight Cards** — AI tarot readings with Groq + Next.js
 - 🌱 Growing into full-stack — AWS, Docker, CI/CD
 - ⚡ Fun fact: Psychology grad turned frontend engineer
 
