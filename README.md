@@ -5,7 +5,7 @@
 
 ## Frontend Engineer based in London 🇬🇧
 
-- 🔭 Currently building at **M10c** — React, TypeScript, Next.js, React Native
+- 🔭 Currently working at **M10c** — React, TypeScript, Next.js, React Native
 - 🎓 MSc Computer Science @ **Queen Mary University of London**
 - 🔮 Side project: **Osho Zen Insight Cards** — AI tarot readings with Groq + Next.js
 - 🌱 Growing into full-stack — AWS, Docker, CI/CD
